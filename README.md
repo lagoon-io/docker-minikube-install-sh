@@ -1,2 +1,3 @@
 # docker-minikube-install-sh
-dockerとminikubeの環境構築用Shell
+
+docker と minikube の環境構築用 Shell(CentOS 用)
